@@ -1,4 +1,4 @@
-## PsyBrains Organization
+## PsyBrains SaaS
 
 <!--
 
